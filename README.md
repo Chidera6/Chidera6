@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chidera a Backend DEveloper
+- 👋 Hi, I’m Chidera a Backend DEveloper
 - 👀 I’m a Python developer proficient in the use of Flask Framework
 - 🌱 I’m currently learning the Django Framework
 - 💞️ I’m looking to collaborate on any open source projects. 
